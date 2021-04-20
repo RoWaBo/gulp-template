@@ -1,0 +1,24 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "My default gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoWaBo/gulp-template.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "babel"
+  ],
+  "author": "Robert Watt Boolsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoWaBo/gulp-template/issues"
+  },
+  "homepage": "https://github.com/RoWaBo/gulp-template#readme"
+}
